@@ -12,4 +12,6 @@ From here the usual.
     make test
     sudo make install
 
-to be continued
+
+
+Will be back at it
